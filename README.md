@@ -1,3 +1,3 @@
 # LONG-LIVE-SLACKWARE
 
-*Just run the script in full window terminal view... ;)*
+*Just run scripts in full window terminal view... ;)*
