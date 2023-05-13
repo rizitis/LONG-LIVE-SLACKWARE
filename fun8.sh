@@ -33,6 +33,6 @@ while true; do
 done
 
 # Print a message when the animation ends
-echo "The race is over... Before 30 years!"
+echo "The race was over... Before 30 years!"
 sleep 3
 neofetch
